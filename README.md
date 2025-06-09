@@ -55,10 +55,3 @@ This dashboard can help **marketing and sales teams** in the bike industry to:
 * Understand customer profiles.
 * Target promotions to high-income and middle-aged customers.
 * Focus on urban regions with shorter commutes.
-
-
-Feel free to clone, modify, and build upon this project for your own data visualization and Excel dashboarding practice.
-
----
-
-Let me know if you'd like to add a README or Excel file download link section!
